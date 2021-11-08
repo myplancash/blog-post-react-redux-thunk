@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Blog post React App with a Redux store design, Async actions with Redux Thunk and much more intersting things
+
+<img width="1219" alt="Screen Shot 2021-11-07 at 9 28 07 AM" src="https://user-images.githubusercontent.com/64751892/140649276-f1282ae0-4681-4893-9895-c9f5e499eb0a.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
